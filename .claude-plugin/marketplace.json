@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "explore-packages",
-      "source": ".",
+      "source": "./plugins/explore-packages",
       "description": "Explore monorepo packages with parallel haiku subagents to generate natural-language summaries"
     }
   ]
