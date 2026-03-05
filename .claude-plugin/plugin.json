@@ -1,0 +1,10 @@
+{
+  "name": "explore-packages",
+  "version": "1.0.0",
+  "description": "Explore monorepo packages with parallel haiku subagents to generate natural-language summaries of purpose, examples, and APIs",
+  "author": {
+    "name": "boat"
+  },
+  "license": "MIT",
+  "keywords": ["monorepo", "exploration", "documentation", "subagents"]
+}
