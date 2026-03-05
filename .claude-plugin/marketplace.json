@@ -1,0 +1,13 @@
+{
+  "name": "frontboat-plugins",
+  "owner": {
+    "name": "frontboat"
+  },
+  "plugins": [
+    {
+      "name": "explore-packages",
+      "source": ".",
+      "description": "Explore monorepo packages with parallel haiku subagents to generate natural-language summaries"
+    }
+  ]
+}
